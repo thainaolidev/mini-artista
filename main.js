@@ -1,5 +1,5 @@
 const demoNote = 'Conteúdo de demonstração — sujeito a confirmação.';
-const instagramUrl = '';
+const instagramUrl = 'https://www.instagram.com/miniartistasasolta/';
 
 const activities = [
   { number: '01', title: 'Artes plásticas', copy: 'Experimentar materiais, cores, formas e ideias.', tone: 'pink', icon: 'palette' },
