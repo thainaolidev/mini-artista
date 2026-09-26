@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title">
+  <title id="title">Mini Artistas à Solta</title>
+  <defs><clipPath id="inside"><circle cx="160" cy="160" r="136"/></clipPath></defs>
+  <circle cx="160" cy="160" r="151" fill="#fff8f4" stroke="#e9a5b3" stroke-width="5"/>
+  <circle cx="160" cy="160" r="139" fill="#fffaf5" stroke="#f5c6d0" stroke-width="2"/>
+  <g clip-path="url(#inside)" opacity=".85">
+    <path d="M-7 51c47 9 34 48 78 45 24-2 23-31 51-27 18 3 24 28 42 28 29 0 22-43 49-52 26-9 45 15 68 7v-58H-7z" fill="#d8eee2"/>
+    <path d="M-12 252c38-14 36-55 73-56 28-1 27 24 56 21 32-4 24-34 51-32 29 3 28 35 54 39 21 4 37-14 66-15v124H-12z" fill="#f7e4a8"/>
+    <path d="M17 278c39-21 34-57 63-61 19-3 33 11 50 9" fill="none" stroke="#f6b9c7" stroke-width="19" stroke-linecap="round"/>
+    <path d="M199 67c20 16 24 37 45 41 15 2 31-8 48-7" fill="none" stroke="#b5dce5" stroke-width="17" stroke-linecap="round"/>
+    <circle cx="49" cy="125" r="15" fill="#f9b6a7"/><circle cx="274" cy="204" r="19" fill="#d9c8f2"/><circle cx="90" cy="247" r="11" fill="#b7d8b6"/>
+  </g>
+  <g font-family="Fredoka, Trebuchet MS, sans-serif" font-weight="600" text-anchor="middle" letter-spacing="1">
+    <text x="160" y="128" font-size="37"><tspan fill="#ef988f">M</tspan><tspan fill="#f0b94e">I</tspan><tspan fill="#83bda2">N</tspan><tspan fill="#a9d8e6">I</tspan></text>
+    <text x="160" y="173" font-size="38"><tspan fill="#df8197">ARTISTAS</tspan></text>
+    <text x="160" y="215" font-size="30" fill="#bf7482">À SOLTA</text>
+  </g>
+</svg>
